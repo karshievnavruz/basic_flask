@@ -10,6 +10,9 @@ def hello_world():
 def home():
     return 'Home Page!!'
 
+@app.route('/uy')
+def home():
+    return 'Home Page!!!!'
 
 if __name__ == '__main__':
     
