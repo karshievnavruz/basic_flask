@@ -11,7 +11,7 @@ def home():
     return 'Home Page!!'
 
 @app.route('/uy')
-def home():
+def uy():
     return 'Home Page!!!!'
 
 if __name__ == '__main__':
